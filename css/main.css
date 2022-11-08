@@ -105,7 +105,8 @@ body {
 .header-inner {
   position: relative;
   display: block;
-  width: 1800px;
+  width: 100%;
+  max-width: 1800px;
   height: 79px;
   margin: 0 auto;
   z-index: 1;
